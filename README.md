@@ -13,9 +13,6 @@
 
 
 
-<p align="center">
-  <img src="https://i.imgur.com/k5jYKVI.png" width="600" alt="Keylogger Screenshot Example">
-</p>
 
 
 
