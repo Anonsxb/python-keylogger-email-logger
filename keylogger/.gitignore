@@ -1,0 +1,17 @@
+# 🔒 Environment and sensitive data
+.env
+.env.*
+
+# 🐍 Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 🔧 Editor and system files
+.vscode/
+.idea/
+.DS_Store
+
+# 🗃️ Logs and misc
+*.log
