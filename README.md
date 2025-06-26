@@ -1,13 +1,19 @@
-![Python](https://img.shields.io/badge/Python-3.6+-blue?logo=python)
-![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey?logo=windows)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?logo=github)
-
-````markdown
-
-
-
 # ⌨️ Python Keylogger with Email Reporting ✉️
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.6+-blue?logo=python" />
+  <img src="https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative" />
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey?logo=windows" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/UqZydK0sC5pEk/giphy.gif" width="400" alt="Keylogging animation" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/fXhqHZq.png" width="600" alt="Keylogger screenshot example" />
+</p>
 
 A simple yet powerful keylogger that logs keystrokes and sends them to your email inbox at regular intervals using Python. Built with `pynput`, `smtplib`, and `threading`, it’s a great project to learn how to capture input, use environment variables, and work with SMTP protocols.
 
@@ -36,7 +42,7 @@ keylogger/
 ├── .env               # 🔒 Store your email and credentials here
 ├── README.md          # 📘 You're reading it
 └── LICENSE            # 📜 MIT License
-````
+```
 
 ---
 
@@ -110,8 +116,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 💬 Connect
 
-Feel free to contribute or raise issues.
+Feel free to contribute or raise issues.  
 Made with ☕ by [Anonymoussxb](https://github.com/Anonymoussxb)
-
-```
-```
