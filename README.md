@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://i.imgur.com/fXhqHZq.png](https://www.avast.com/hubfs/New_Avast_Academy/what_is_a_keylogger_academy_a1_refresh/What-is-a-keylogger-03.svg)" width="600" alt="Keylogger screenshot example" />
+ 
 </p>
 
 A simple yet powerful keylogger that logs keystrokes and sends them to your email inbox at regular intervals using Python. Built with `pynput`, `smtplib`, and `threading`, it’s a great project to learn how to capture input, use environment variables, and work with SMTP protocols.
