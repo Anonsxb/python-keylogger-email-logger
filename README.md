@@ -1,8 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.6+-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green?logo=opensourceinitiative)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey?logo=windows)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?logo=github)
+
 ````markdown
-![Python](https://img.shields.io/badge/Python-3.6%2B-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey.svg)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
+
 
 
 # ⌨️ Python Keylogger with Email Reporting ✉️
