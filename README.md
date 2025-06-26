@@ -8,12 +8,14 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/UqZydK0sC5pEk/giphy.gif" width="400" alt="Keylogging animation" />
+  <img src="https://media.giphy.com/media/3o7TKzK9X5iWYvHhVK/giphy.gif" width="400" alt="Hacker Keylogger Animation">
 </p>
 
+
 <p align="center">
-  <img src="https://i.imgur.com/fXhqHZq.png" width="600" alt="Keylogger screenshot example" />
+  <img src="https://i.imgur.com/k5jYKVI.png" width="600" alt="Keylogger Screenshot Example">
 </p>
+
 
 A simple yet powerful keylogger that logs keystrokes and sends them to your email inbox at regular intervals using Python. Built with `pynput`, `smtplib`, and `threading`, it’s a great project to learn how to capture input, use environment variables, and work with SMTP protocols.
 
