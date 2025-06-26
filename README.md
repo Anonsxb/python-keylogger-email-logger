@@ -118,4 +118,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## 💬 Connect
 
 Feel free to contribute or raise issues.  
-Made with ☕ by [Anonymoussxb](https://github.com/Anonymoussxb)
+Made with ☕ by [Anonymoussxb](https://github.com/Anonsxb)
