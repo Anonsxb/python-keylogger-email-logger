@@ -1,3 +1,4 @@
+````markdown
 # ⌨️ Python Keylogger with Email Reporting ✉️
 
 A simple yet powerful keylogger that logs keystrokes and sends them to your email inbox at regular intervals using Python. Built with `pynput`, `smtplib`, and `threading`, it’s a great project to learn how to capture input, use environment variables, and work with SMTP protocols.
@@ -27,3 +28,82 @@ keylogger/
 ├── .env               # 🔒 Store your email and credentials here
 ├── README.md          # 📘 You're reading it
 └── LICENSE            # 📜 MIT License
+````
+
+---
+
+## 🛠️ Setup Instructions
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/Anonymoussxb/keylogger.git
+   cd keylogger
+   ```
+
+2. **Install Dependencies**
+   You need Python 3.6+ and the following modules:
+
+   ```bash
+   pip install pynput python-dotenv
+   ```
+
+3. **Configure Environment Variables**
+   Create a `.env` file in the same directory with the following:
+
+   ```env
+   FROM_EMAIL=your_email@gmail.com
+   TO_EMAIL=receiver_email@gmail.com
+   APP_PASS=your_app_password
+   ```
+
+   > 💡 Use [Google App Passwords](https://support.google.com/accounts/answer/185833) if you're using Gmail.
+
+4. **Run the Keylogger**
+
+   ```bash
+   python keylogger.py
+   ```
+
+---
+
+## ⚙️ How It Works
+
+* The script starts listening for keystrokes using `pynput`.
+* Keystrokes are stored in a buffer (`self.log`).
+* Every 60 seconds, the log is sent to your email using SMTP.
+* You can press `ESC` to stop the logger at any time.
+
+---
+
+## ✏️ Customization
+
+* 🔁 To change the time interval, edit this line in `keylogger.py`:
+
+  ```python
+  self.time_count = 60  # Change to any number of seconds
+  ```
+
+* 📧 To send emails to a different address or from a different account, just update the `.env` file.
+
+---
+
+## ⚠️ Legal Disclaimer
+
+This project is for **educational purposes only**. Running it on machines you do not own or have explicit permission to monitor is **illegal**. Use responsibly.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 💬 Connect
+
+Feel free to contribute or raise issues.
+Made with ☕ by [Anonymoussxb](https://github.com/Anonymoussxb)
+
+```
+```
